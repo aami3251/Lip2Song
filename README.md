@@ -73,6 +73,8 @@ Improved lip-reading accuracy
 
 
 ---
+👉 Download models from here:
+[https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/Eb3LEzbfuKlJiR600lQWRxgBIY27JZg80f7V9jtMfbNDaQ?e=TBFBVW]
 
 ## ⚙️ Installation
 
