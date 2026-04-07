@@ -1,8 +1,6 @@
 # 🎵 Lip2Song
 
-Lip2Song is a deep learning-based system that converts **silent Malayalam singing videos into English audio with lip synchronization**.
-
-The project combines **Computer Vision, Natural Language Processing, and Speech Synthesis** to bridge the gap between visual speech recognition and multilingual communication.
+Lip2Song is a deep learning-based system that converts **silent Malayalam singing videos into English audio with lip synchronization.The project combines Computer Vision, Natural Language Processing, and Speech Synthesis to bridge the gap between visual speech recognition and multilingual communication.
 
 ---
 
@@ -38,20 +36,6 @@ Lip2Song/
 │── README.md
 
 
-
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/Lip2Song.git
-cd Lip2Song
-pip install -r requirements.txt
-
-
-
-
 🧠 Model Details
 CNN + LSTM
 CNN extracts spatial features from frames
@@ -75,14 +59,28 @@ Text-to-Speech (TTS)
 
 
 
-Applications
+🎯Applications
 Accessibility for hearing-impaired users
 Silent video understanding
 Multilingual media translation
 AI-based dubbing
 
 
-Future Improvements
+📌Future Improvements
 Real-time processing
 Support for more languages
 Improved lip-reading accuracy
+
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/Lip2Song.git
+cd Lip2Song
+pip install -r requirements.txt
+
+
+
+
