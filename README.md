@@ -49,6 +49,8 @@ Produces realistic talking/singing video
 
 
 📊 Technologies Used
+
+
 Python
 streamlit app(frontend)
 TensorFlow / Keras
@@ -60,6 +62,8 @@ Text-to-Speech (TTS)
 
 
 🎯Applications
+
+
 Accessibility for hearing-impaired users
 Silent video understanding
 Multilingual media translation
@@ -67,6 +71,7 @@ AI-based dubbing
 
 
 📌Future Improvements
+
 Real-time processing
 Support for more languages
 Improved lip-reading accuracy
@@ -74,7 +79,7 @@ Improved lip-reading accuracy
 
 ---
 👉 Download models from here:
-[https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/Eb3LEzbfuKlJiR600lQWRxgBIY27JZg80f7V9jtMfbNDaQ?e=TBFBVW]
+[(https://drive.google.com/file/d/1O6ahvNIOz2s9EgXqMF2sO1gTkJnXqwf8/view?usp=drive_link)]
 
 ## ⚙️ Installation
 
